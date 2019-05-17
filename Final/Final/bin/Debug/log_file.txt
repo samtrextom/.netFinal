@@ -1,0 +1,152 @@
+2019-05-03 09:53:58.1100|INFO|Final.Program|Program started
+2019-05-03 09:54:02.6497|INFO|Final.Program|User choice - "3"
+2019-05-03 09:54:03.4169|INFO|Final.Program|Program ended
+2019-05-03 09:55:15.8422|INFO|Final.Program|Program started
+2019-05-03 09:55:18.5854|INFO|Final.Program|User choice - "1"
+2019-05-03 09:55:22.1607|INFO|Final.Program|User choice - "4"
+2019-05-03 09:55:22.4840|INFO|Final.TraderContext|78 Products returned
+2019-05-03 09:55:27.6088|INFO|Final.Program|User choice - "6"
+2019-05-03 09:55:31.5688|INFO|Final.Program|User choice - "3"
+2019-05-03 09:55:31.8408|INFO|Final.Program|Program ended
+2019-05-17 03:05:01.8155|INFO|Final.Program|Program started
+2019-05-17 03:05:04.6890|INFO|Final.Program|User choice - "2"
+2019-05-17 03:05:07.4414|INFO|Final.Program|User choice - "1"
+2019-05-17 03:05:15.2689|INFO|Final.Program|Category added - "Test"
+2019-05-17 03:05:18.5130|INFO|Final.Program|User choice - "5"
+2019-05-17 03:05:18.5540|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:05:33.4298|INFO|Final.Program|User choice - "3"
+2019-05-17 03:05:33.4620|INFO|Final.TraderContext|8 Catergories returned
+2019-05-17 03:05:40.3918|INFO|Final.Program|User choice - "1"
+2019-05-17 03:05:46.4159|INFO|Final.Program|Category added - "test"
+2019-05-17 03:05:48.7198|INFO|Final.Program|User choice - "6"
+2019-05-17 03:05:52.0831|INFO|Final.Program|User choice - "1"
+2019-05-17 03:05:57.2689|INFO|Final.Program|User choice - "1"
+2019-05-17 03:06:03.3812|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:06:06.5555|INFO|Final.TraderContext|29 Suppliers returned
+2019-05-17 03:06:32.9665|INFO|Final.Program|Product added - "test product"
+2019-05-17 03:06:37.7631|INFO|Final.Program|User choice - "6"
+2019-05-17 03:06:40.7704|INFO|Final.Program|User choice - "2"
+2019-05-17 03:06:43.8615|INFO|Final.Program|User choice - "5"
+2019-05-17 03:06:43.8925|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:11:18.4599|INFO|Final.Program|Program started
+2019-05-17 03:11:26.3915|INFO|Final.Program|User choice - "1"
+2019-05-17 03:11:29.1220|INFO|Final.Program|User choice - "3"
+2019-05-17 03:11:31.9339|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:11:37.6512|INFO|Final.Program|User choice - "6"
+2019-05-17 03:11:42.3932|INFO|Final.Program|User choice - "2"
+2019-05-17 03:11:44.2666|INFO|Final.Program|User choice - "5"
+2019-05-17 03:11:44.3027|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:18:41.4708|INFO|Final.Program|Program started
+2019-05-17 03:18:48.1051|INFO|Final.Program|User choice - "2"
+2019-05-17 03:18:51.3980|INFO|Final.Program|User choice - "5"
+2019-05-17 03:18:54.2981|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:19:52.5719|INFO|Final.Program|Program started
+2019-05-17 03:19:57.9863|INFO|Final.Program|User choice - "2"
+2019-05-17 03:20:03.0812|INFO|Final.Program|User choice - "5"
+2019-05-17 03:20:05.9073|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:21:47.7039|INFO|Final.Program|Program started
+2019-05-17 03:21:49.6969|INFO|Final.Program|User choice - "2"
+2019-05-17 03:21:50.7742|INFO|Final.Program|User choice - "5"
+2019-05-17 03:21:53.6590|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:25:57.8492|INFO|Final.Program|Program started
+2019-05-17 03:25:59.7611|INFO|Final.Program|User choice - "2"
+2019-05-17 03:26:01.1589|INFO|Final.Program|User choice - "5"
+2019-05-17 03:26:03.9882|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:37:08.5284|INFO|Final.Program|Program started
+2019-05-17 03:37:10.6894|INFO|Final.Program|User choice - "2"
+2019-05-17 03:37:12.7590|INFO|Final.Program|User choice - "5"
+2019-05-17 03:37:15.6126|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:37:27.6427|INFO|Final.Program|User choice - "3"
+2019-05-17 03:37:27.6794|INFO|Final.TraderContext|8 Catergories returned
+2019-05-17 03:37:29.9430|INFO|Final.Program|User choice - "6"
+2019-05-17 03:37:33.1934|INFO|Final.Program|User choice - "1"
+2019-05-17 03:37:36.3935|INFO|Final.Program|User choice - "3"
+2019-05-17 03:37:36.4355|INFO|Final.TraderContext|78 Products returned
+2019-05-17 03:37:38.7671|INFO|Final.Program|User choice - "6"
+2019-05-17 03:37:41.4794|INFO|Final.Program|User choice - "3"
+2019-05-17 03:37:42.5708|INFO|Final.Program|Program ended
+2019-05-17 03:50:20.6996|INFO|Final.Program|Program started
+2019-05-17 03:50:27.8068|INFO|Final.Program|User choice - "1"
+2019-05-17 03:50:29.1007|INFO|Final.Program|User choice - "1"
+2019-05-17 03:50:38.4162|INFO|Final.TraderContext|8 Catergories returned
+2019-05-17 03:50:40.8226|INFO|Final.TraderContext|29 Suppliers returned
+2019-05-17 03:50:43.5653|INFO|Final.Program|Product added - "test product"
+2019-05-17 03:51:07.1685|INFO|Final.Program|User choice - "4"
+2019-05-17 03:51:07.2166|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:51:19.2662|INFO|Final.Program|User choice - "2"
+2019-05-17 03:51:19.3053|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:51:40.2746|INFO|Final.Program|User choice - "4"
+2019-05-17 03:51:40.3043|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:51:54.6599|INFO|Final.Program|User choice - "5"
+2019-05-17 03:51:54.6940|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:52:02.1415|INFO|Final.Program|User choice - "6"
+2019-05-17 03:52:05.1814|INFO|Final.Program|User choice - "3"
+2019-05-17 03:52:05.7833|INFO|Final.Program|Program ended
+2019-05-17 03:57:19.0283|INFO|Final.Program|Program started
+2019-05-17 03:57:28.8693|INFO|Final.Program|User choice - "1"
+2019-05-17 03:57:30.7915|INFO|Final.Program|User choice - "1"
+2019-05-17 03:57:35.5823|INFO|Final.TraderContext|8 Catergories returned
+2019-05-17 03:57:42.5435|INFO|Final.TraderContext|29 Suppliers returned
+2019-05-17 03:57:44.4947|INFO|Final.Program|Product added - "test"
+2019-05-17 03:57:50.2863|INFO|Final.Program|User choice - "5"
+2019-05-17 03:57:50.3241|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:58:00.3834|INFO|Final.Program|User choice - "6"
+2019-05-17 03:58:03.0995|INFO|Final.Program|User choice - "2"
+2019-05-17 03:58:04.9765|INFO|Final.Program|User choice - "1"
+2019-05-17 03:58:11.3548|INFO|Final.Program|Category added - "test"
+2019-05-17 03:58:14.6609|INFO|Final.Program|User choice - "6"
+2019-05-17 03:58:17.5104|INFO|Final.Program|User choice - "1"
+2019-05-17 03:58:19.8419|INFO|Final.Program|User choice - "1"
+2019-05-17 03:58:21.6798|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:58:23.6489|INFO|Final.TraderContext|29 Suppliers returned
+2019-05-17 03:58:28.1081|INFO|Final.Program|Product added - "test"
+2019-05-17 03:58:35.6666|INFO|Final.Program|User choice - "6"
+2019-05-17 03:58:38.8447|INFO|Final.Program|User choice - "2"
+2019-05-17 03:58:40.9857|INFO|Final.Program|User choice - "5"
+2019-05-17 03:58:41.0239|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:58:49.1813|INFO|Final.TraderContext|9 Catergories returned
+2019-05-17 03:59:08.2524|INFO|Final.Program|User choice - "6"
+2019-05-17 03:59:15.4306|INFO|Final.Program|User choice - "1"
+2019-05-17 03:59:19.0446|INFO|Final.Program|User choice - "4"
+2019-05-17 03:59:19.0868|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:59:33.2368|INFO|Final.Program|User choice - "5"
+2019-05-17 03:59:33.2729|INFO|Final.TraderContext|79 Products returned
+2019-05-17 03:59:40.5966|INFO|Final.Program|User choice - "6"
+2019-05-17 03:59:44.9349|INFO|Final.Program|User choice - "6"
+2019-05-17 03:59:47.7610|INFO|Final.Program|User choice - "3"
+2019-05-17 03:59:49.2117|INFO|Final.Program|Program ended
+2019-05-17 04:05:09.0688|INFO|Final.Program|Program started
+2019-05-17 04:05:10.9871|INFO|Final.Program|User choice - "1"
+2019-05-17 04:05:14.3589|INFO|Final.Program|User choice - "3"
+2019-05-17 04:05:17.2435|INFO|Final.TraderContext|78 Products returned
+2019-05-17 04:06:13.9364|INFO|Final.Program|User choice - "6"
+2019-05-17 04:06:15.9780|INFO|Final.Program|User choice - "3"
+2019-05-17 04:06:16.4204|INFO|Final.Program|Program ended
+2019-05-17 04:10:13.3348|INFO|Final.Program|Program started
+2019-05-17 04:10:20.1658|INFO|Final.Program|User choice - "1"
+2019-05-17 04:10:22.2260|INFO|Final.Program|User choice - "3"
+2019-05-17 04:10:24.9697|INFO|Final.TraderContext|78 Products returned
+2019-05-17 04:11:00.6655|INFO|Final.Program|User choice - "6"
+2019-05-17 04:11:04.5502|INFO|Final.Program|User choice - "3"
+2019-05-17 04:11:04.8934|INFO|Final.Program|Program ended
+2019-05-17 04:21:25.8162|INFO|Final.Program|Program started
+2019-05-17 04:21:29.1872|INFO|Final.Program|User choice - "1"
+2019-05-17 04:21:31.4155|INFO|Final.Program|User choice - "4"
+2019-05-17 04:21:34.2407|INFO|Final.TraderContext|78 Products returned
+2019-05-17 04:22:02.9389|INFO|Final.Program|User choice - "7"
+2019-05-17 04:22:04.3318|INFO|Final.Program|User choice - "3"
+2019-05-17 04:22:04.7174|INFO|Final.Program|Program ended
+2019-05-17 04:25:14.9888|INFO|Final.Program|Program started
+2019-05-17 04:25:21.8485|INFO|Final.Program|User choice - "1"
+2019-05-17 04:25:24.5297|INFO|Final.Program|User choice - "4"
+2019-05-17 04:25:27.2849|INFO|Final.TraderContext|78 Products returned
+2019-05-17 04:25:57.7153|INFO|Final.Program|User choice - "7"
+2019-05-17 04:25:59.0433|INFO|Final.Program|User choice - "3"
+2019-05-17 04:25:59.3695|INFO|Final.Program|Program ended
+2019-05-17 04:26:24.1716|INFO|Final.Program|Program started
+2019-05-17 04:26:28.2209|INFO|Final.Program|User choice - "1"
+2019-05-17 04:26:29.8356|INFO|Final.Program|User choice - "4"
+2019-05-17 04:26:32.6213|INFO|Final.TraderContext|78 Products returned
+2019-05-17 04:26:54.3129|INFO|Final.Program|User choice - "7"
+2019-05-17 04:26:58.3731|INFO|Final.Program|User choice - "3"
+2019-05-17 04:26:59.6922|INFO|Final.Program|Program ended
